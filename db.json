@@ -1,0 +1,118 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/bg_header.webp",
+      "name": "Berlin",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "400$",
+      "reviews": 4
+    },
+    {
+      "id": 2,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xintro_1.jpg.pagespeed.ic.vc2WNRX2pm.webp",
+      "name": "New Delhi",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "120$",
+      "reviews": 4
+    },
+    {
+      "id": 3,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xintro_2.jpg.pagespeed.ic.T0_SEU16mo.webp",
+      "name": "cuba",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "130$",
+      "reviews": 4
+    },
+    {
+      "id": 4,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xintro_3.jpg.pagespeed.ic.56ahj3oq2s.webp",
+      "name": "london",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "500$",
+      "reviews": 4
+    },
+    {
+      "id": 5,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xoffer_1.jpg.pagespeed.ic.LnLHOsFCJq.webp",
+      "name": "rome",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "700$",
+      "reviews": 4
+    },
+    {
+      "id": 6,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/bg_header.webp",
+      "name": "dubai",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "80$",
+      "reviews": 4
+    },
+    {
+      "id": 7,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xintro_1.jpg.pagespeed.ic.vc2WNRX2pm.webp",
+      "name": "Ha Noi",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "620$",
+      "reviews": 4
+    },
+    {
+      "id": 8,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xintro_2.jpg.pagespeed.ic.T0_SEU16mo.webp",
+      "name": "hong kong",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "120$",
+      "reviews": 4
+    },
+    {
+      "id": 9,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xoffer_1.jpg.pagespeed.ic.LnLHOsFCJq.webp",
+      "name": "singapore",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "90$",
+      "reviews": 4
+    },
+    {
+      "id": 10,
+      "img": "https://tranhoangkhang1212.github.io/travelix/assets/images/xintro_2.jpg.pagespeed.ic.T0_SEU16mo.webp",
+      "name": "hawaii",
+      "description": "Enjoy a wonderful vacation in resort paradise",
+      "price": "140$",
+      "reviews": 4
+    }
+  ],
+  "comments": [
+    {
+      "avata": "https://media.vov.vn/sites/default/files/styles/large/public/2020-12/den_vau.jpg",
+      "name": "DenVau",
+      "comment": "Em ơi đi trốn với anh",
+      "date": "November 18, 2021",
+      "like": 635,
+      "id": 1
+    },
+    {
+      "avata": "https://static.yeah1.com/uploads/editors/12/2021/01/27/aOisNVOf8QhAhZkR7gqdaNZgnMDizUZvMOaZDrTb.jpeg",
+      "name": "SonTung MTP",
+      "comment": "Thương em...",
+      "date": "November 14, 2021",
+      "like": 1001,
+      "id": 2
+    },
+    {
+      "avata": "https://media.vov.vn/uploaded/wgyyweux2icrb7fgmumzw/2020_01_05/_uu_0050_sezj.jpg",
+      "name": "Binz",
+      "comment": "Amazing gút chóp",
+      "date": "November 14, 2021",
+      "like": 466,
+      "id": 3
+    },
+    {
+      "avata": "https://topchuan.com/wp-content/uploads/2019/08/Kieu-%E2%80%9CFollow-me%E2%80%9D-2.jpg.webp",
+      "name": "anna",
+      "comment": "Đưa tay đây nào, bạn bên nhau bạn nhá:>",
+      "date": "November 18, 2021",
+      "like": 0,
+      "id": 4
+    }
+  ]
+}
